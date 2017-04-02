@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
-
+<br>
+<img width="531" alt="capture" src="https://cloud.githubusercontent.com/assets/23619819/24588950/14cd4812-17a0-11e7-92a9-80fd3167513e.PNG">
+<br>
 
 Syntax highlighted code block
 var panel = $("#quiz-area");
